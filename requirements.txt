@@ -1,0 +1,9 @@
+fastapi
+pickle
+pydantic
+transformers
+sentencepiece
+uvicorn
+guvicorn
+uvloop
+httptools 
